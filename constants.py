@@ -15,7 +15,7 @@ INDEX_SCRIPS = {
     "PAYLOAD": {
         "ordcol": "TT",
         "strType": "index",
-        "strfilter:" ""
+        "strfilter": ""
     }
 }
 
@@ -59,3 +59,4 @@ SCRIP_ANNOUNCEMENTS = {
         "strType": "C"
     }
 }
+
