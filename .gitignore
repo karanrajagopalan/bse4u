@@ -1,5 +1,7 @@
 
 scratch1.py
+__pycache__/
+.idea/
 .idea
 __pycache__
-__pycache__/constants.cpython-39.pyc
+stock_dash_plot.py
